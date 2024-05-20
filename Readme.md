@@ -60,7 +60,7 @@ Finding a new tennis racket can be challenging and tricky even for advance tenni
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/Ceci-Aguilera/rate-my-racket.git
+    git clone {repository_link}
     ```
 1. Copy a default setup of the environment variables for the project:
     ```bash
@@ -86,7 +86,7 @@ Finding a new tennis racket can be challenging and tricky even for advance tenni
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/Ceci-Aguilera/rate-my-racket.git
+    git clone {repository_link}
     ```
 
 1. Copy a default configuration of the environment variables for Django:
@@ -232,8 +232,6 @@ Inputs and contributions to this project are appreciated. To make them as transp
 ### Docker
 - [Docker Oficial Documentation](https://docs.docker.com/)
 - Dockerizing Django, PostgreSQL, guinicorn, and Nginx:
-    - Github repo of sunilale0: [Link](https://github.com/sunilale0/django-postgresql-gunicorn-nginx-dockerized/blob/master/README.md#nginx)
-    - My repo to Dockerize Django + MySQL + Nginx + React js: [Ceci-Aguilera/django-react-nginx-mysql-docker](https://github.com/Ceci-Aguilera/django-react-nginx-mysql-docker)
     - Michael Herman article on testdriven.io: [Link](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
 ### Django and DRF
 - [Django Official Documentation](https://docs.djangoproject.com/en/4.0/)
